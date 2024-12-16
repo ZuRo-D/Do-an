@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\bin\Debug\doantinhoc.exe.config
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\bin\Debug\doantinhoc.exe
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\bin\Debug\doantinhoc.pdb
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.MhChinh.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.exe
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.pdb
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.ThongTin.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.QuanAo.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.NhapHang.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.DangNhap.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.HoaDon.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.PhuKien.resources
+C:\Users\ADMIN\source\repos\doantinhoc\doantinhoc\obj\Debug\doantinhoc.LichSu.resources
